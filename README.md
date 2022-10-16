@@ -1,6 +1,6 @@
 # education-platform-back
 
-在线教育平台的h后端部分
+在线教育平台的后端部分
 
 Education Platform 是个人项目，后端部分使用了SpringBoot, Nginx, Nacos, Feign, Hystrix等技术框架
 
