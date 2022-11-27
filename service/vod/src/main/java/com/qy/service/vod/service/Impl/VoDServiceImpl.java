@@ -9,7 +9,6 @@ import com.aliyuncs.vod.model.v20170321.DeleteVideoRequest;
 import com.qy.service.vod.service.VoDService;
 import com.qy.service.vod.utils.InitVodClient;
 import com.qy.service.vod.utils.PropertiesUtil;
-import jdk.internal.org.objectweb.asm.tree.TryCatchBlockNode;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 

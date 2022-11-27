@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>service</module>
-        <module>service/edu</module>
+<!--        <module>service/edu</module>-->
         <module>common</module>
-        <module>common/base</module>
+<!--        <module>common/base</module>-->
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -190,14 +190,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
